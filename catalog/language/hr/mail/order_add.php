@@ -1,0 +1,36 @@
+<?php
+// Text
+$_['text_subject']               = '%s - Naruždba %s';
+$_['text_greeting']              = 'Hvala vam na interesu za %s proizvode. Vaša je narudžba primljena i bit će obrađena nakon potvrde plaćanja.';
+$_['text_link']                  = 'Za pregled narudžbe kliknite na donju poveznicu:';
+$_['text_order_detail']          = 'Detalji narudžbe';
+$_['text_instruction']           = 'Instrukcije';
+$_['text_order_id']              = 'Broj narudžbe:';
+$_['text_date_added']            = 'Datum:';
+$_['text_order_status']          = 'Status narudžbe:';
+$_['text_payment_method']        = 'Način plačanja:';
+$_['text_shipping_method']       = 'Metoda dostave:';
+$_['text_email']                 = 'E-mail:';
+$_['text_telephone']             = 'Broj mobitela:';
+$_['text_ip']                    = 'IP Address:';
+$_['text_payment_address']       = 'Adresa za naplatu';
+$_['text_shipping_address']      = 'Adresa za dostavu';
+$_['text_products']              = 'Proivodi';
+$_['text_product']               = 'Proizvod';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Količina';
+$_['text_price']                 = 'Cijena';
+$_['text_order_total']           = 'Ukupno';
+$_['text_total']                 = 'Ukupno';
+$_['text_subscription']          = 'Pretplata';
+$_['text_subscription_trial']    = '%s svakih %d %s(s) za %d plaćanja onda ';
+$_['text_subscription_duration'] = '%s svakih %d %s(s) za %d plaćanja';
+$_['text_subscription_cancel']   = '%s svakih %d %s(s) dok ne otkažete';
+$_['text_day']                   = 'dan';
+$_['text_week']                  = 'tjedan';
+$_['text_semi_month']            = 'pola mjeseca';
+$_['text_month']                 = 'mjesec';
+$_['text_year']                  = 'godina';
+$_['text_download']              = 'Nakon što je vaše plaćanje potvrđeno, možete kliknuti na donju poveznicu za pristup proizvodima koje možete preuzeti:';
+$_['text_comment']               = 'Komentari za vašu narudžbu su:';
+$_['text_footer']                = 'Odgovorite na ovu e-poštu ako imate pitanja.';

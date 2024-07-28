@@ -1,0 +1,34 @@
+<?php
+// Text
+$_['text_subject']               = '%s - Pretplata %s';
+$_['text_greeting']              = 'Hvala vam na interesu za proizvod %s. Vaš zahtjev za pretplatu je primljen i bit će obrađen nakon potvrde plaćanja.';
+$_['text_link']                  = 'Kako biste vidjeli Vašu pretplatu, kliknite na poveznicu ispod:';
+$_['text_promotion']             = 'Uspješno: Uz ovu pretplatu uspješno je dodana promotivna značajka!';
+$_['text_subscription_trial']    = '%s svakih %d %s(s) za %d plaćanja, nakon ';
+$_['text_subscription_duration'] = '%s svakih %d %s(s) za %d plaćanja';
+$_['text_subscription_cancel']   = '%s svakih %d %s(s) dok ne otkažete';
+$_['text_subscription_detail']   = 'Detalji pretplate';
+$_['text_instruction']           = 'Upute';
+$_['text_orders_id']             = 'Broj narudžbe:';
+$_['text_date_added']            = 'Datum dodavanja:';
+$_['text_order_status']          = 'Status narudžbe:';
+$_['text_payment_method']        = 'Način naplate:';
+$_['text_payment_address']       = 'Adresa naplate';
+$_['text_email']                 = 'E-mail:';
+$_['text_telephone']             = 'Telefon:';
+$_['text_ip']                    = 'IP Adresa:';
+$_['text_products']              = 'Proizvodi';
+$_['text_product']               = 'Proizvod';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Količina';
+$_['text_price']                 = 'Cijena';
+$_['text_order_total']           = 'Ukupni iznos narudžbe';
+$_['text_total']                 = 'Ukupno';
+$_['text_comment']               = 'Komentari za Vašu pretplatu su:';
+$_['text_description']           = 'Opis';
+$_['text_day']                   = 'dan';
+$_['text_week']                  = 'tjedan';
+$_['text_semi_month']            = 'pola-mjeseca';
+$_['text_month']                 = 'mjesec';
+$_['text_year']                  = 'godina';
+$_['text_footer']                = 'Molimo odgovorite na ovaj e-mail ukoliko imate pitanja.';
